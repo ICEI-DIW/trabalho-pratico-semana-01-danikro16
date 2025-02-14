@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Daniel Rodrigues dos Reis
+Matricula: 886098
 
 ## Tela de inspeção com navegador
-
+![alt text](<ferramentas de desenvolvedor-1.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<hello world-1.png>)
